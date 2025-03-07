@@ -1,4 +1,4 @@
-## NLP with Disaster Tweets
+## NLP with Disaster Tweets (Leaderboard Rank: 23/697)
 
 This repository contains a solution for the [Kaggle NLP with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started) competition, where the objective is to build a machine learning model that classifies whether a tweet is related to a real disaster or not.
 
